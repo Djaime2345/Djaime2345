@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋, my name is Jaime
+---
+I'm a Computer Engineer from Spain 💃 since 2025 and currently living in Poland 🇵🇱
 
-<!--
-**Djaime2345/Djaime2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Some code languages i use are...**
 
-Here are some ideas to get you started:
+<div display="flex">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+</div>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 I’m currently** coursing [Qaracter](https://www.qaracter.com/) academy
+
+**🔍 You can search me at:**
+
+ <a href="https://www.linkedin.com/in/jaime-carrasco-requena-1855b6275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
