@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Jaime
 ---
-I'm a Computer Engineer from Spain 💃 since 2025 and currently living in Poland 🇵🇱
+I'm a Computer Engineer from Spain 💃 since 2025 and looking forward to participate in new projects
 
 **Some code languages i use are...**
 
